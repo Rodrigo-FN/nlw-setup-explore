@@ -53,7 +53,7 @@ button {
     padding-right: 10px;
 }
 
-form {
+#form-habits {
     display: flex;
     width: 80%;
     margin: auto;
