@@ -122,9 +122,15 @@ input:checked {
 @media (max-width: 570px) {
   button {
     width: 25%;
+
   }
 
   .texto__desaparecer {
     display: none;
   }
+
+  .header__plus {
+    padding: 20px;
+  }
+
 }
